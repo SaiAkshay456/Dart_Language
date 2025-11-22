@@ -3,5 +3,5 @@ void main(){
 }
 
 void hi(){
-    print("hi")
+    print("hi");
 }
